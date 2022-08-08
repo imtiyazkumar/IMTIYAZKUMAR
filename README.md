@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I am Imtiyaz Ahmad</h1>
-<h3 align="center">A passionate full Full Stack Developer from Anantnag, Kashmir.</h3>
+<h3 align="center">A passionate  Full Stack Developer from Anantnag, Kashmir.</h3>
 
 <p align="left"> <a href="https://twitter.com/imtiyaz_kumar" target="blank"><img src="https://img.shields.io/twitter/follow/imtiyaz_kumar?logo=twitter&style=for-the-badge" alt="imtiyaz_kumar" /></a> </p>
 
