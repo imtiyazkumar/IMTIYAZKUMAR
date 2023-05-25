@@ -16,6 +16,10 @@ Let's build amazing web and mobile applications together!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imtiyazkumar&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyazkumar&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 📊 GitHub Stats:
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@imtiyazkumar" frameborder="0"></iframe>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
