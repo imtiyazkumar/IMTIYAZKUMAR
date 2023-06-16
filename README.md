@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Front-end Web Developer proficient in React.js, dedicated to crafting seamless and engaging user experiences. Skilled in Mobile App Development using React Native and building robust backends with Express.js and Node.js. Also well-versed in Django framework for backend development and creating interactive websites using WordPress.
+Passionate Software Developer proficient in React.js, dedicated to crafting seamless and engaging user experiences. Skilled in Mobile App Development using React Native and building robust backends with Express.js and Node.js. Also well-versed in Django framework for backend development and creating interactive websites using WordPress.
 
 Experienced in version control using git and GitHub to ensure smooth collaboration and efficient project management. Constantly exploring new technologies and staying up-to-date with the latest industry trends to deliver innovative solutions.
 
