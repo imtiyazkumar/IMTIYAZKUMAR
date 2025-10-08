@@ -10,7 +10,7 @@ Passionate Software Developer proficient in React.js, dedicated to crafting seam
 # 📊 GitHub Stats:
 ![Imtiyaz's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imtiyazkumar&theme=radical)
 
-![Imtiyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiyazkumar&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Imtiyaz's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=imtiyazkumar&include_all_commits=true&count_private=true&theme=radical&show_icons=true)
 
 ![Imtiyaz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyazkumar&theme=radical&layout=compact&langs_count=10)
 
